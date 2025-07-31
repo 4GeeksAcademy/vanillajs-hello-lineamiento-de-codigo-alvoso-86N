@@ -5,6 +5,9 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
+// las variables tienen nombres claros//
+// se aplico la indentacion//
+//El codigo es legible//
 window.onload = function() {
 let first= "Ooh no!!!";
 
